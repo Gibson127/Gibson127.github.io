@@ -1,0 +1,57 @@
+h1 {
+	text-align: center;
+	color: lightgreen;
+	font-size: 40px;
+	border: solid;
+	background-color: green;
+	transform: rotate(25deg);
+	float: right;
+}
+
+h3 {
+	line-height: 1.2;
+    margin: 12px 0;
+    color: #2a6300;
+    text-align-last: center;
+    border-bottom: dashed;
+    background-color: black;
+    font-size: 40px;
+}
+
+p {
+	margin:50px 50px 20px;
+    color:#fff;
+    padding:20px;
+    border:2px solid red;
+	background:rgba(100,100,100, 0.5);
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+}
+
+a {
+	font-size: 30px;
+}
+
+button {
+	height: 50px;
+	width: 100px;
+	background-color: black;
+	color: green;
+	cursor: wait;
+}
+
+body {
+	background: url(http://img.wallpaperfolder.com/f/45D807E1B566/beautiful-tree-which-is-under.jpg) no-repeat center center fixed;
+	background-size: cover;
+	margin-left: 150px;
+	margin-right: 150px;
+
+}

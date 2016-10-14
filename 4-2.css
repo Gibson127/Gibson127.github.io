@@ -1,0 +1,38 @@
+body {
+	background-color: #029302;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+}
+
+a {
+	font-size: 30px;
+}
+
+button {
+	height: 50px;
+	width: 100px;
+	background-color: black;
+	color: green;
+	cursor: wait;
+}
+
+h1 {
+	font-family: fantasy;
+	text-align: center;
+}
+
+img {
+	float: left;
+	width: 350px;
+	height: 300px;
+	border:ridge;
+	margin: 5px;
+}

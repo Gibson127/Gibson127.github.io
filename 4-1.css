@@ -1,0 +1,50 @@
+body {
+	background: url(https://breezometer.com/wordpress/wp-content/uploads/2016/01/nature_big_tree_hd.jpg) no-repeat center center fixed;
+	background-size: cover;
+
+}
+
+h1 {
+	color: #00FF00;
+	border-bottom: groove;
+	border-bottom-color: #000066;
+	border-bottom-width: 10px;
+	margin-left: 500px;
+	margin-right: 500px;
+	padding: 5px;
+	background-color: darkslategrey;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+
+}
+
+p {
+	border:solid;
+	margin: 20px;
+	padding: 1px;
+	background-color: lime;
+	background: gainsboro;
+	color: black;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+}
+
+a {
+	font-size: 30px;
+}
+
+button {
+	height: 50px;
+	width: 100px;
+	background-color: black;
+	color: green;
+	cursor: wait;
+}
